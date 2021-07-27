@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋🇻🇳🇻🇳🇻🇳
 
-<!--
-**thinhemb/thinhemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thinhemb&show_icons=true&theme=tokyonight">
+</a>
+<div style="text-align: center">
+  <h2><img src="https://github.com/thinhemb/thinhemb/blob/master/images/UVcSnu.gif" width="100px"> My name is <b>Đỗ Viết Thịnh</b> 
+  </h2>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 I’m interested in AI, Machine Learning, Deep Learning and Maths
+- 🌱 I’m currently working on HIT - HaUI
+- 🔭 I’m currently learning Information Technology at Hanoi University of Industry
+- 🔭 I’m looking to collaborate on researching Machine Learning
+- 📫 How to reach me Gmail: thinhdo19022001@gmail.com || Phone: 0354517318 || Facebook : [Thịnh Đỗ](https://www.facebook.com/dvt1902)
+
+
