@@ -10,9 +10,9 @@
 
 
 - 👋 I’m interested in AI, Machine Learning, Deep Learning
-- 🌱 I’m currently working on HIT - HaUI
-- 🔭 I’m currently learning Information Technology at Hanoi University of Industry
-- 🔭 I’m looking to collaborate on researching Machine Learning
+- :turtle: I’m currently working on HIT - HaUI
+- :whale: I’m currently learning Information Technology at Hanoi University of Industry
+- :parrot: I’m looking to collaborate on researching Machine Learning
 
 
 
